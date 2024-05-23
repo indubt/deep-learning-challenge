@@ -101,7 +101,7 @@ This model was trained on 100 epochs and achieved a goal of 72.87% accuracy with
 
 The Neural Network models tried here did not meet the expectation of 75% accuracy but overall the models did a decent job of predicting whether the charities received funding with their success ventures.
 
-The modifications I performed did not seem to improve the performance, I'm wondering if modifying the input dimensions could alter the performance in any way and also explore if there are any other models that we could try out with.
+The modifications I performed did not seem to improve the performance, I'm wondering if modifying the input dimensions could alter the performance in any way and also explore if there are any other supervised learning models like Random Forest Classifier that may or may not have given better results
 
 
 All the neural network models have been saved as h5 models as requested in the challenge and saved under:
